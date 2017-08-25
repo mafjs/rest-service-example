@@ -1,0 +1,15 @@
+{
+  "name": "maf-rest-service-example",
+  "version": "0.0.0",
+  "scripts": {
+      "start": "node ."
+  },
+  "description": "maf rest service example",
+  "main": "index.js",
+  "repository": "git@github.com:mafjs/rest-service-example.git",
+  "author": "alekzonder <alekzonder@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@maf/rest-service": "^0.0.1"
+  }
+}
