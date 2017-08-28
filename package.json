@@ -2,7 +2,9 @@
   "name": "maf-rest-service-example",
   "version": "0.0.0",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "dev": "nodemon .",
+    "lint": "eslint -c .eslintrc.js --ignore-path .gitignore ."
   },
   "description": "maf rest service example",
   "main": "index.js",
@@ -11,5 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "@maf/rest-service": "^0.0.1"
+  },
+  "devDependencies": {
+    "@maf/eslint-config": "^0.2.0"
   }
 }
