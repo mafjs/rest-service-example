@@ -2,7 +2,7 @@
   "name": "maf-rest-service-example",
   "version": "0.0.0",
   "scripts": {
-      "start": "node ."
+    "start": "node ."
   },
   "description": "maf rest service example",
   "main": "index.js",
