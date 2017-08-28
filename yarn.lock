@@ -9,9 +9,9 @@
     babel-eslint "^7.2.3"
     eslint "^4.5.0"
 
-"@maf/rest-service@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@maf/rest-service/-/rest-service-0.0.1.tgz#94d138a4969a4e5a715242df077be604bec17def"
+"@maf/rest-service@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@maf/rest-service/-/rest-service-0.0.3.tgz#771a765c1fca838cbde8ddb4188c26f9978636bc"
   dependencies:
     body-parser "^1.17.2"
     cors "^2.8.4"
@@ -21,7 +21,7 @@
     maf-config "^1.2.0"
     maf-error "^1.2.0"
     maf-logger "^0.4.0"
-    maf-rest "^0.10.0"
+    maf-rest "^0.11.1"
     maf-service-locator "^0.3.0"
     morgan "^1.8.2"
     repl-extra "^0.1.3"
@@ -898,9 +898,9 @@ maf-logger@^0.4.0:
   dependencies:
     bunyan "^1.8.12"
 
-maf-rest@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/maf-rest/-/maf-rest-0.10.0.tgz#2c0a1e5d440f3214a2228da148f8001d1fbcebb3"
+maf-rest@^0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/maf-rest/-/maf-rest-0.11.1.tgz#347f8a064c844dbc56912292fe33ca86d3b214ee"
   dependencies:
     body-parser "^1.17.2"
     joi "^10.6.0"

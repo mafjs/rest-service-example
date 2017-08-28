@@ -12,7 +12,8 @@
   "author": "alekzonder <alekzonder@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@maf/rest-service": "^0.0.1"
+    "@maf/rest-service": "^0.0.3",
+    "maf-error": "^1.2.0"
   },
   "devDependencies": {
     "@maf/eslint-config": "^0.2.0"
